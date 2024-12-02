@@ -1,6 +1,6 @@
 # Week 49 - Resources
 
-[Back to main page :house:](https://github.com/aleylani/linear-algebra-ai24)
+[Back to main page :house:](https://github.com/aleylani/Linear-Algebra-ai24)
 
 ## Video lectures :video_camera:
 
@@ -16,7 +16,7 @@ Vektorer
 
 ## Lecture notes :book:
 
-- [Whiteboards](https://github.com/aleylani/Linear-Algebra/tree/main/whiteboard)
+- [Whiteboards](https://github.com/aleylani/Linear-Algebra-AI24/tree/main/whiteboards)
 
 ## Exercises :running:
 
