@@ -13,6 +13,10 @@ Matriser
 - [Inversen till en 2x2 matris](https://www.youtube.com/watch?v=azzE2yl1gb4)
 - [Inversen till en 3x3 matris](https://www.youtube.com/watch?v=Fg7_mv3izR0)
 
+Wolfram Alpha
+
+- [Wolfram Alpha](https://www.wolframalpha.com/)
+
 
 ## Lecture notes :book:
 
