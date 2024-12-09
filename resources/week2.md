@@ -14,6 +14,10 @@ Vektorer
 - [Skalärprodukt](https://www.youtube.com/watch?v=Vb_3PAYn9bY&list=PL2w8yt28pgXrYD4BeDz12t0nWZVUY62-E&index=5)
 - [Skalärprodukt forts - vinklar](https://www.youtube.com/watch?v=wr_dojG7YOk&list=PL2w8yt28pgXrYD4BeDz12t0nWZVUY62-E&index=7)
 
+Wolfram Alpha
+
+- [Wolfram Alpha](https://www.wolframalpha.com/)
+
 ## Lecture notes :book:
 
 - [Whiteboards](https://github.com/aleylani/Linear-Algebra-AI24/tree/main/whiteboards)
